@@ -1,4 +1,4 @@
-# 
+# custom Bot for MEV sniper bot | auto-sell & rug-pull-detection offers the most advanced MEV sniper bot, with auto-sell and rug-pull-detection. Ideal for professional MEV and
 
 
 
